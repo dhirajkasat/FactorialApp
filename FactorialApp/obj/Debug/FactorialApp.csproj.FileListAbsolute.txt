@@ -1,0 +1,7 @@
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\bin\Debug\FactorialApp.exe.config
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\bin\Debug\FactorialApp.exe
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\bin\Debug\FactorialApp.pdb
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\obj\Debug\FactorialApp.csprojAssemblyReference.cache
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\obj\Debug\FactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\obj\Debug\FactorialApp.exe
+C:\Users\kasat\source\repos\FactorialApp\FactorialApp\obj\Debug\FactorialApp.pdb
